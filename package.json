@@ -1,0 +1,16 @@
+{
+  "name": "apn-server",
+  "version": "1.0.0",
+  "description": "It's an apn's server application. It sends voip push notifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mkg",
+  "license": "ISC",
+  "dependencies": {
+    "apn": "^2.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
